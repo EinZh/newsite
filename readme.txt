@@ -1,14 +1,13 @@
-»ğ¼ıÔÆ×îĞÂµØÖ·£º
-https://www.huojianyun.net  £¨ÓÀ¾ÃÍøÖ·£¬·­Ô½¿É·Ã£©
-ÃâQµØÖ·£º
-https://www.huojianyun1.tk
-https://www.huojiancloud.tk
-https://www.huojianyun2.tk
-Èç¹ûÓòÃû²»ÄÜ·ÃÎÊÇë³¢ÊÔÔÚµØÖ·Ç°Ãæ¼ÓÉÏ https://  ²¢½«µçÄÔµÄdnsĞŞ¸ÄÎª8.8.8.8ºó£¬¶àË¢ĞÂ¼¸´Î¡£
+#### ç«ç®­äº‘æœ€æ–°åœ°å€ï¼š
+#### https://www.huojianyun.net  ï¼ˆæ°¸ä¹…ç½‘å€ï¼Œç¿»è¶Šå¯è®¿ï¼‰
+#### å…Qåœ°å€ï¼š
+#### https://www.huojianyun1.tk
+#### https://www.huojiancloud.tk
+#### https://www.huojianyun2.tk
+#### å¦‚æœåŸŸåä¸èƒ½è®¿é—®è¯·å°è¯•åœ¨åœ°å€å‰é¢åŠ ä¸Š https://  å¹¶å°†ç”µè„‘çš„dnsä¿®æ”¹ä¸º8.8.8.8åï¼Œå¤šåˆ·æ–°å‡ æ¬¡ã€‚
 
-ÆäËû»ñÈ¡·½Ê½£º
-ÓÊÏä£º
-xinwangzhi@huojianyun.cf
-rocketcloudssr@gmail.com
-huojianyun91@outlook.com
-
+#### å…¶ä»–è·å–æ–¹å¼ï¼š
+#### é‚®ç®±ï¼š
+#### xinwangzhi@huojianyun.cf
+#### rocketcloudssr@gmail.com
+#### huojianyun91@outlook.com

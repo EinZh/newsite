@@ -7,9 +7,10 @@
 #### 如果域名不能访问请尝试在地址前面加上https:// 并将电脑的dns修改为8.8.8.8后，多刷新几次。
 
 #### 邮箱获取：
-#### xinwangzhi@huojianyun.cf
+#### xinwangzhi@rocketcloudmail.com
 #### rocketcloudssr@gmail.com
-#### huojianyun91@outlook.com
+#### 咨询/疑问/售后：
+#### service@rocketcloudmail.com
 
 #### 短信获取：
 #### 发送“新地址至※”到+1(609)3888855；※号部分填：您的接收邮箱。

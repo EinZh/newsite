@@ -1,7 +1,7 @@
 #### 火箭云最新地址：
 #### https://www.huojianyun.net   （永久网址，翻越可访）
 #### 免Q地址：
-#### https://www.huojianyun3.tk 
+#### https://www.huojianyun2.tk 
 #### https://www.huojianyun5.tk
 #### https://www.huojianyun6.tk
 #### https://www.huojianyun7.tk

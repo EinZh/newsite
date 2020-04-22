@@ -12,7 +12,7 @@
 #### 电脑端操作：文字不好描述，略。自行度娘。
 #### 安卓端操作：点击加入的wifi，将DHCP修改为静态后，就可以修改dns了。
 #### 苹果端操作：点击加入的wifi后面的叹号，将DNS自动修改手动，即可添加dns了（原默认自动匹配的可删去）。
-
+=========
 #### 2.邮箱获取：
 #### xinwangzhi@rocketcloudmail.com
 #### rocketcloudssr@gmail.com
